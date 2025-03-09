@@ -6,6 +6,8 @@ We are AURA focused on developing multi-room audio solutions.
 
 <img src="pictures/AURA.jpg" width="800" height="500">
 
+[AURA video](https://github.com/Multi-Room-Sound-System-AURA/.github/blob/main/video%20presentation.mp4)
+
 ## Architecture
 <img src="pictures/architecture.jpg" width="800" height="500">
 
