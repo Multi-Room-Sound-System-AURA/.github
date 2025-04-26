@@ -17,4 +17,4 @@ We are AURA focused on developing multi-room audio solutions.
 ## 🔗 Key Repositories
 - [Enclosure Design](https://github.com/Multi-Room-Sound-System-AURA/Enclosure)
 - [PCB Design](https://github.com/Multi-Room-Sound-System-AURA/PCB)
-
+- [Snapweb](https://github.com/Multi-Room-Sound-System-AURA/Snapweb)
